@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Krishna Paudel  
 
-<!--
-**Krisna07/Krisna07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Full-Stack Developer | UI/UX Enthusiast | Tech Explorer**  
+📍 Sydney, Australia  
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I’m passionate about creating digital experiences that are fast, scalable, and beautifully designed — from backend logic to front-end interfaces.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+
+- 💻 Full-stack developer with a focus on **TypeScript**, **React**, and **Node.js**  
+- 🧠 Currently exploring **AI-powered tools**, **automation**, and **creative coding**  
+- 🎨 I love clean design, smooth user flows, and responsive interfaces  
+- 🌏 Based in Sydney, originally from Nepal 🇳🇵  
+- 🧩 When I’m not coding, I’m learning something new or experimenting with side projects  
+
+---
+
+## 🧰 Tech Stack  
+
+**Frontend**  
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `HTML5` · `CSS3`
+
+**Backend**  
+`Node.js` · `Express` · `REST APIs` · `MongoDB` · `Firebase`
+
+**Tools & Platforms**  
+`Git` · `GitHub` · `Vite` · `Netlify` · `Vercel` · `Figma`
+
+---
+
+## 🌟 What I Do  
+
+I build full-stack web applications that combine intuitive design with efficient architecture.  
+My goal is to turn complex ideas into usable, accessible, and impactful digital products.  
+
+---
+
+## 📫 Connect With Me  
+
+- 🌐 [Portfolio](https://krishnapaudel.netlify.app/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/krishna-paudel-4724541b1)  
+- ✉️ [Email](mailto:krishnapaudel@example.com) _(replace with your real email)_  
+
+---
+
+## 🏆 GitHub Highlights  
+
+![Krishna’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Krisna07&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krisna07&layout=compact&theme=tokyonight)
+
+---
+
+✨ _“Building useful things, one commit at a time.”_
