@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Krishna Paudel  
 
 💡 **Full-Stack Developer **
+
 📍 Sydney, Australia  
 
 Welcome to my GitHub profile! I’m passionate about creating digital experiences that are fast, scalable, and beautifully designed — from backend logic to front-end interfaces.  
