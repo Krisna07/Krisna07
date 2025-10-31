@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krishna Paudel  
 
-💡 **Full-Stack Developer **
+💡 **Full-Stack Developer**
 
 📍 Sydney, Australia  
 
